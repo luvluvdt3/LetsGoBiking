@@ -1,6 +1,6 @@
 # LetsGoBiking
 
-The objective of this project is to create all the parts of an application that would allow the user to find his or her way from any location to any other location by using the bikes offered by JCDecaux.
+The objective of this project is to create all the parts of an application that would allow the user to find their way from any location to any other location by using the bikes offered by JCDecaux.
 
 ## This repository contains:
 
