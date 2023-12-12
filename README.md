@@ -52,7 +52,7 @@ Group: SI4 **FISA**
 > You have to have the administrator right to launch the servers since we are using different ports and URLs between the routing server and the proxy cache server, and it's allowed only with the administrator's right on Windows.
 
 ### Prerequisites
-
+- Having Node.js
 - Having JDK 11, 17, or 18.
 - Having ActiveMQ launched at `activemq:tcp://localhost:61616`.
 
