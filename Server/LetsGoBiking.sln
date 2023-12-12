@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingServer", "LetsGoBiking\RoutingServer.csproj", "{C0C59683-CE2B-4AB3-85B3-FF9B5D6A61FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6757058A-9210-40D5-9909-20F38F71631B} = {6757058A-9210-40D5-9909-20F38F71631B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCDecauxProxy", "JCDecauxProxy\JCDecauxProxy.csproj", "{6757058A-9210-40D5-9909-20F38F71631B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C59683-CE2B-4AB3-85B3-FF9B5D6A61FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C59683-CE2B-4AB3-85B3-FF9B5D6A61FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C59683-CE2B-4AB3-85B3-FF9B5D6A61FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C59683-CE2B-4AB3-85B3-FF9B5D6A61FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6757058A-9210-40D5-9909-20F38F71631B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6757058A-9210-40D5-9909-20F38F71631B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6757058A-9210-40D5-9909-20F38F71631B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6757058A-9210-40D5-9909-20F38F71631B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7895A9-97FA-4A2F-B173-6904521FEBC2}
+	EndGlobalSection
+EndGlobal

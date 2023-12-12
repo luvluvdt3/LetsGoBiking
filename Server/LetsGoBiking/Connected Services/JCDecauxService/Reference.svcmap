@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="d246a636-7401-4e70-8af1-669b16ea83bb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8090/LetsGoBiking/ProxyService/?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProxyService.wsdl" MetadataType="Wsdl" ID="95900cdb-4307-4afd-a585-8ecb5fa0c3f6" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="68450864-8c86-4f8a-a273-a09157039592" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd4" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="2ff8cec4-30dc-418a-b912-a644ae9397b8" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd5" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="b9134f8e-cb37-4dec-aa72-d1f73d9ae26a" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd2" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="b9a19b36-00f0-423c-be26-6a916cdc3327" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd3" />
+    <MetadataFile FileName="item4.xsd" MetadataType="Schema" ID="c808abec-edb7-47bd-a590-863b062ae9a8" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd0" />
+    <MetadataFile FileName="item5.xsd" MetadataType="Schema" ID="19d0e7e7-9a7f-4b50-995f-718728857fef" SourceId="1" SourceUrl="http://localhost:8090/LetsGoBiking/ProxyService/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
