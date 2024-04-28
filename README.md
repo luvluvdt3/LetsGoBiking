@@ -2,6 +2,13 @@
 
 The objective of this project is to create all the parts of an application that would allow the user to find their way from any location to any other location by using the bikes offered by JCDecaux.
 
+## Demo
+### Light Client:
+https://github.com/luvluvdt3/LetsGoBiking/assets/77581509/4650a869-8ad6-43a1-bbba-d87c7cd4c6a0
+
+### Heavy Client:
+https://github.com/luvluvdt3/LetsGoBiking/assets/77581509/5dc38d41-fd91-4bc7-9a8d-710cd8dec905
+
 ## This repository contains:
 
 <h4 align="left">1) A Proxy Server, which uses the JCDecaux API and provides the following functionality:</h4>
@@ -67,9 +74,4 @@ Group: SI4 **FISA**
    You will find it running at `http://localhost:3000/`.
 4. Launch the Heavy Client:
    Run it with `runHeavyClient.bat`.
-
-## How it works
-
-- Light Client: [Link to video](https://unice-my.sharepoint.com/:v:/g/personal/thi-thanh-tu_duong_etu_unice_fr/EbnQetbs4ulJhsrCshq2dcsBrzEfNnhcKDAghMqE9f3Ukg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3tjkDH)
-- Heavy Client: [Link to video](https://unice-my.sharepoint.com/:v:/g/personal/thi-thanh-tu_duong_etu_unice_fr/EZJUY1sOFl1EuqMcdRUmABwBJL5WYfkkQId_zc7uIBsHFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z8XkSk)
 
